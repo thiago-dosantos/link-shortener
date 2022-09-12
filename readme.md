@@ -13,3 +13,5 @@ Sites utilizados: https://rebrandly.com/
 API utilizada: https://api.rebrandly.com/v1
 
 Obrigado por Acessar meu GitHub.
+
+<img src="https://raw.githubusercontent.com/losanthiago/link-shortener/main/exemple.png" alt="exemple" align="center">
